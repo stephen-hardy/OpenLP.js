@@ -1,3 +1,23 @@
 {
-	"version": "0.0.1"
+	"name": "openlp.js",
+	"displayName": "OpenLP.js",
+	"version": "0.0.2",
+	"description": "",
+	"main": "openlp.mjs",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/stephen-hardy/openlp.js.git"
+	},
+	"keywords": [
+		"OpenLP"
+	],
+	"scripts": {
+		"test": "echo \"No tests specified\" && exit 0"
+	},
+	"author": "Stephen Hardy",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/stephen-hardy/OpenLP.js/issues"
+	},
+	"homepage": "https://github.com/stephen-hardy/OpenLP.js#readme"
 }
